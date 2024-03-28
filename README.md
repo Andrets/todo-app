@@ -5,10 +5,10 @@ This is a simple ToDo application developed using Vue.js and TypeScript. The app
 ## Installation
 
 1. Clone the repository to your local machine:
-   git clone [text](https://github.com/Andrets/todo-app.git)
+   git clone `https://github.com/Andrets/todo-app.git`
 
 2. Go to the project directory:
-   cd [text]todo-app
+   cd `todo-app`
 
 3. Install dependencies:
    npm install
@@ -18,7 +18,7 @@ This is a simple ToDo application developed using Vue.js and TypeScript. The app
 Run the application in development mode using the following command:
 npm run preview
 
-Open a browser and go to [text](http://localhost:5173) to use the ToDo app.
+Open a browser and go to `http://localhost:5173` to use the ToDo app.
 
 ## Functionality
 
